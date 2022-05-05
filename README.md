@@ -9,7 +9,7 @@ This File
 Dataset used
 https://github.com/fishscience/fake-news-detection/blob/main/Fake%20News%20Detection%20Dataset.zip
 Python Code for data exploration, machine learning and data visualisation
-https://github.com/fishscience/fake-news-detection/blob/main/FakeNewsDetection.ipynb
+https://github.com/fishscience/fake-news-detection/blob/main/2040885_FakeNewsDetection.ipynb
 Fake News Detection App executable file
 https://github.com/fishscience/fake-news-detection/blob/main/FakeNewsDetectionApp.exe
 TKinter Python Code for App GUI
