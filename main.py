@@ -1,3 +1,6 @@
+##SID 2040885
+##Team Name: Global Pandas
+
 from tkinter import *
 import tkinter as tk
 
